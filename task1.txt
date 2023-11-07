@@ -1,3 +1,4 @@
 Hallo teman - teman semua
 Selamat datang di Kelas Frontend 17
 Kita akan belajar Typescript dan React JS
+Kita akan belajar Javascript dan VUE Js
